@@ -6,7 +6,7 @@ export default {
       sm: { min: "0px", max: "600px" },
       tb: { min: "601px", max: "800px" },
       lp: { min: "801px", max: "1425px" },
-      lg: { min: "1426px" }, // From 1426px and up
+      lg: { min: "1426px" },
     },
     extend: {
       colors: {
