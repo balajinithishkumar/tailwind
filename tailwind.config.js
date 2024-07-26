@@ -13,7 +13,10 @@ export default {
         nav: "#DFDFDF",
         navbutton: "#3E3AEC",
         buttonColor: "#fffff",
-        lightblue:"blue"
+        lightblue:"blue",
+        subInput: "#EAF1FF",
+        subsTextColor:"#5D7286",
+        textColor:"#143AA0"
       },
     },
   },

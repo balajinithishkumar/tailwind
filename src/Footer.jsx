@@ -50,12 +50,12 @@ function Footer() {
           </svg>
         </div>
 
-        <p className="mt-6 leading-relaxed text-gray-500 sm:max-w-xs sm:text-center  tb:text-center">
+        <p className="mt-6 leading-relaxed text-gray-500 sm:max-w-xs sm:text-center  tb:lp:w-2/5 tb:text-center">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt consequuntur amet culpa
           cum itaque neque.
         </p>
 
-        <ul className="mt-8 flex  gap-6 sm:justify-start md:gap-8">
+        <ul className="mt-8 flex  gasp-6 sm:justify-start md:gap-8">
           <li>
             <a
               href="#"
